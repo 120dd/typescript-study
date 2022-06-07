@@ -21,5 +21,10 @@
         return numbers.reduce((a, b)=>a+b)
     }
     console.log(addNums(1,2,3));
+
+    const print = (message:string) => {
+        console.log(message);
+    }
+    print("하이");
 }
 
