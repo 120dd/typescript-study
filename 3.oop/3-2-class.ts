@@ -37,5 +37,4 @@
     console.log(coffeeMachine.bean);
     const newMaker = CoffeeMaker.makeMachine(50);
     console.log(newMaker);
-
 }
